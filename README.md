@@ -70,8 +70,8 @@ foreach (v in arrayOfFloats) {
 The correct value is considered the value, that was delivered by the most languages.
 
 <p align="center">
-<img src="https://github.com/alexvaitsekhovich/polyglot/blob/master/img/Speed.png" width="100%" height="100%" alt="Speed graph">
+<img src="https://github.com/alexvaitsekhovich/polyglot/blob/main/img/Speed.png" width="100%" height="100%" alt="Speed graph">
 
-<img src="https://github.com/alexvaitsekhovich/polyglot/blob/master/img/Full_data.png" width="70%" height="70%" alt="Correctness and versions">
+<img src="https://github.com/alexvaitsekhovich/polyglot/blob/main/img/Full_data.png" width="70%" height="70%" alt="Correctness and versions">
 </p>
 
